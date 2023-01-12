@@ -23,4 +23,4 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?`
    * A few other commands that you can try are: `cd ~`, `..`, `ls -a`, `ls -lat`, `ls <directory>` where `<directory>` is `/home/linux/ieng6/cs15lwi23/cs15lwi23abn`. Remember to replace `abn` with the letters from your course-specific account, and `cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/`
    * You should expect to see results like these ![Image](images/commands.jpg)
  
- ### Thank you for taking your time to review my lab report! 
+ ### Thank you for reviewing my lab report, appreciate it! 

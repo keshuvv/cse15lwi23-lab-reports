@@ -13,7 +13,7 @@
 The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
 RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
 Are you sure you want to continue connecting (yes/no/[fingerprint])?`
-   * Step 4: Please type `yes` and then your password to move forward. Now, you should be able to see a window like the one given here below ![Image](https://github.com/keshuvv/cse15lwi23-lab-reports/blob/main/images/ssh.png)
+   * Step 4: Please type `yes` and then your password to move forward. Now, you should be able to see a window like the one given here below ![Image](images/ssh.png)
    * Step 5: You are now logged into your remote server! 
   
 
@@ -21,4 +21,4 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?`
    * Try running the commands `cd`, `ls`, `pwd`, `mkdir`, and `pw` on the terminal a few times. 
    * Use these commands in different ways to understand their usage and make a note of it.
    * A few other commands that you can try are: `cd ~`, `..`, `ls -a`, `ls -lat`, `ls <directory>` where `<directory>` is `/home/linux/ieng6/cs15lwi23/cs15lwi23abn`. Remember to replace `abn` with the letters from your course-specific account, and `cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/`
-   * You should expect to see results like these ![Image](https://github.com/keshuvv/cse15lwi23-lab-reports/blob/main/images/commands.jpg)
+   * You should expect to see results like these ![Image](images/commands.jpg)

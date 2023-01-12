@@ -7,7 +7,7 @@
    
 ## 2. Remotely Connecting 
    * Step 1: To use `ssh`, open a terminal in VScode or use Ctrl or Command + `. 
-   * Step 2: 
+   * Step 2: Use the following command on the terminal. Make sure that you replace `abn` with the letters from your course-specific account. >`$ ssh cs15lwi23abn@ieng6.ucsd.edu` 
    * Step 3:
 
 

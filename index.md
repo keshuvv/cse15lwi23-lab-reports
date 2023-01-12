@@ -1,7 +1,6 @@
 # Hello, CSE15L community!
 
-## This is heading 2.
-
-*ok **?***
+**LAB REPORTS FOR CSE 15L WINTER 2023:**
+1. [Lab Report 1](Lab-Report-1.md)
 
 

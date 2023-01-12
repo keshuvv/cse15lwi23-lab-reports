@@ -1,4 +1,4 @@
-# CSE 15L WINTER 2023 > Lab Report 1 
+# Lab Report 1 
 
 ## 1. Installing VScode
    * Step 1: Click on this [link](https://code.visualstudio.com) to go to the Visual Studio Code website.

@@ -13,10 +13,9 @@
 The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
 RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
 Are you sure you want to continue connecting (yes/no/[fingerprint])?`
-     Please type `yes` to move forward. 
-   * Step 4:
-   * 
-
+   * Step 4: Please type `yes` and then your password to move forward. Now, you should be able to see a window like the one given here below ![Image](https://github.com/keshuvv/cse15lwi23-lab-reports/blob/main/images/ssh.png)
+   * Step 5: You are now logged into your remote server! 
+  
 
 ## 3. Trying Some Commands
    * Step 1:

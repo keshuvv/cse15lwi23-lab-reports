@@ -21,10 +21,11 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?`
    * Try running the commands `cd`, `ls`, `pwd`, `mkdir`, and `pw` on the terminal a few times. 
    * Use these commands in different ways to understand their usage and make a note of it.
    * Here are a few other commands that you can try:
-          * `cd ~`
-          * `..`
-          * `ls -a`
-          * `ls -lat`
-          * `ls <directory>` where `<directory>` is `/home/linux/ieng6/cs15lwi23/cs15lwi23abn`. Remember to replace `abn` with the letters from your course-specific account.
+          - `cd ~`
+          - `..`
+          - `ls -a`
+          - `ls -lat`
+          - `ls <directory>` where `<directory>` is `/home/linux/ieng6/cs15lwi23/cs15lwi23abn`. Remember to replace `abn` with the letters from your course-specific account.
+          - cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/
    
      You should expect to see results like these ![Image](https://github.com/keshuvv/cse15lwi23-lab-reports/blob/main/images/commands.jpg)

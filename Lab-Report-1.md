@@ -6,7 +6,7 @@
    
    
 ## 2. Remotely Connecting 
-   * Step 1: 
+   * Step 1: To use `ssh`, open a terminal in VScode or use Ctrl or Command + `. 
    * Step 2: 
    * Step 3:
 

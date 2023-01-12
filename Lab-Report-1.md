@@ -9,7 +9,7 @@
    * Step 1: To use `ssh`, open a terminal in VScode or use Ctrl or Command + `. 
    * Step 2: Use the command `$ ssh cs15lwi23abn@ieng6.ucsd.edu` on the terminal. Make sure that you replace `abn` with the letters from your course-specific account. Also, note that we write `$` as a convention for how we write commands. 
    * Step 3: If this is your first time connecting to this server, you will probably get a message like this:
-`⤇ ssh cs15lwi23zz@ieng6.ucsd.edu 
+`⤇ ssh cs15lwi23abn@ieng6.ucsd.edu 
 The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
 RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
 Are you sure you want to continue connecting (yes/no/[fingerprint])?`
@@ -18,6 +18,13 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?`
   
 
 ## 3. Trying Some Commands
-   * Step 1:
-   * Step 2: 
-   * Step 3: 
+   * Try running the commands `cd`, `ls`, `pwd`, `mkdir`, and `pw` on the terminal a few times. 
+   * Use these commands in different ways to understand their usage and make a note of it.
+   * Here are a few other commands that you can try:
+          * `cd ~`
+          * `..`
+          * `ls -a`
+          * `ls -lat`
+          * `ls <directory>` where `<directory>` is `/home/linux/ieng6/cs15lwi23/cs15lwi23abn`. Remember to replace `abn` with the letters from your course-specific account.
+   
+     You should expect to see results like these ![Image](https://github.com/keshuvv/cse15lwi23-lab-reports/blob/main/images/commands.jpg)

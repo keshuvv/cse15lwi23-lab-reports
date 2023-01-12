@@ -13,8 +13,7 @@
 The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
 RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
 Are you sure you want to continue connecting (yes/no/[fingerprint])?`
-
-Please type `yes` to move forward. 
+     Please type `yes` to move forward. 
    * Step 4:
    * 
 

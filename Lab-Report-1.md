@@ -12,10 +12,10 @@
    * Step 1: To use `ssh`, open a terminal in VScode or use `Ctr` / `Command` + `. 
    * Step 2: Use the command `$ ssh cs15lwi23abn@ieng6.ucsd.edu` on the terminal. Make sure that you replace `abn` with the letters from your course-specific account. Also, note that we write `$` as a convention for how we write commands. 
    * Step 3: If this is your first time connecting to this server, you will probably get a message like this:
-> ⤇ ssh cs15lwi23abn@ieng6.ucsd.edu 
+> `⤇ ssh cs15lwi23abn@ieng6.ucsd.edu 
 The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
 RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
-Are you sure you want to continue connecting (yes/no/[fingerprint])?
+Are you sure you want to continue connecting (yes/no/[fingerprint])?`
    * Step 4: Please type `yes` and then your password to move forward. Now, you should be able to see a window like the one given here below ![Image](images/ssh.png)
    * Step 5: You are now logged into your remote server! 
   

@@ -27,7 +27,8 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?`
    * You should expect to see results like these ![Image](images/commands.jpg)
    * `cd` - allows you to change directories.
    * `ls` - lists out all the files in that particualr directory. 
-   * `ls~a` - lists out all the files including the hidden ones. 
+   * `ls -a` - lists out all the files including the hidden ones. 
    * `pwd` - tells you the current working directory of the user. 
+   * `mkdir` - stands for making a new directory (Linux OS).
  
 ***Thank you for reviewing my lab report, appreciate it!*** 

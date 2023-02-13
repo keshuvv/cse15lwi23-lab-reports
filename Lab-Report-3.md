@@ -2,7 +2,7 @@
 
 ## The command I chose: `grep`. Following are the command line options for `grep` that I found interesting:
 
-## 1. `-i` option (aso used as `--ignore-case`)
+### 1. _`-i`_ option (aso used as _`--ignore-case`_)
    * Example 1: 
    * Example 2: Follow the instructions given on the website to download and install it on your computer. Please make sure to download the version that is most suitable for your operating system. 
    * Step 3: Once installed, open the application on your system. You should be able to see a window like the one given here below ![Image](images/VSC.png)

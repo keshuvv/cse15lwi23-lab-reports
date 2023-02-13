@@ -1,12 +1,10 @@
 # Lab Report 3 
 
-## The command I chose: `grep`. Following are the command line options for `grep` that I found interesting:
+### I have chosed the `grep` command. Following are some of the command line options for `grep` that I found interesting:
 
-1. `-i`_ option (aso used as `--ignore-case`)
-   * Example 1: 
-   * Example 2: Follow the instructions given on the website to download and install it on your computer. Please make sure to download the version that is most suitable for your operating system. 
-   * Step 3: Once installed, open the application on your system. You should be able to see a window like the one given here below ![Image](images/VSC.png)
-   
+## 1. `-i` option (aso used as `--ignore-case`)
+   * Example 1: ![Image](images/VSC.png)
+   * Example 2: ![Image](images/VSC.png)
    
 ## 2. Remotely Connecting
    * Step 0: (_Only for Windows users_) Follow this [link](https://git-scm.com/download/win) to install `git` for Windows. Now use the following steps to setup the default terminal by using `git bash` in Visual Studio Code. 

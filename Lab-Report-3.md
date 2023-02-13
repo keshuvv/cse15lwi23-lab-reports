@@ -1,10 +1,11 @@
-# Lab Report 1 
+# Lab Report 3 
 
-## 1. Installing VScode
-   * Step 1: Click on this [link](https://code.visualstudio.com) to go to the Visual Studio Code website.
-   * Step 2: Follow the instructions given on the website to download and install it on your computer. Please make sure to download the version that is most suitable for your operating system. 
+## The command I chose: `grep`. Following are the command line options for `grep` that I found interesting:
+
+## 1. `-i` option (aso used as `--ignore-case`)
+   * Example 1: 
+   * Example 2: Follow the instructions given on the website to download and install it on your computer. Please make sure to download the version that is most suitable for your operating system. 
    * Step 3: Once installed, open the application on your system. You should be able to see a window like the one given here below ![Image](images/VSC.png)
-   * Step 4: Your Visual Studio Code environment is ready now! 
    
    
 ## 2. Remotely Connecting

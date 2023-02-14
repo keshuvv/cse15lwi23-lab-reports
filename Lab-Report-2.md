@@ -1,7 +1,7 @@
 # Lab Report 2
 
 ## Part 1
-   * [Image](images/Part1.png)
+   * ![Image](images/Part1.png)
    * 
    
    

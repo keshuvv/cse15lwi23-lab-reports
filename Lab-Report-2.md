@@ -21,15 +21,7 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?`
   
 
 ## Part 3
-   * Try running the commands `cd`, `ls`, `pwd`, `mkdir`, and `pw` on the terminal a few times. 
-   * Use these commands in different ways to understand their usage and make a note of it.
-   * A few other commands that you can try are: `cd ~`, `..`, `ls -a`, `ls -lat`, `ls <directory>` where `<directory>` is `/home/linux/ieng6/cs15lwi23/cs15lwi23abn`. Remember to replace `abn` with the letters from your course-specific account, and `cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/`
-   * You should expect to see results like these ![Image](images/commands.jpg)
-   * `cd` - allows you to change directories.
-   * `ls` - lists out all the files in that particualr directory. 
-   * `ls -a` - lists out all the files including the hidden ones. 
-   * `pwd` - tells you the current working directory of the user. 
-   * `mkdir` - stands for making a new directory (Linux OS).
+   * 
  
 ***Thank you for reviewing my lab report, appreciate it!*** 
 

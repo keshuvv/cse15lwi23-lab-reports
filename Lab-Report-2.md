@@ -1,4 +1,4 @@
-# Lab Report 3
+# Lab Report 2
 
 ## 1. Installing VScode
    * Step 1: Click on this [link](https://code.visualstudio.com) to go to the Visual Studio Code website.

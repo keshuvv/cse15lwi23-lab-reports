@@ -7,9 +7,9 @@
    
  
 ## Step 2. Clone your fork of the repository from your Github account
-   * 
-   * ![Image](images/File8.png)
-   * ![Image](images/File2.png)
+   * I opened the desired repository on my Github account. Then, I copied the SSH url from the Code dropdown menu.
+   * Next, I typed `git clone` + copied url on the command line in the terminal. 
+   * The fork of this repository was finally cloned. Please refer to the following screenshot for the same.![Image](images/File8.png) ![Image](images/File2.png)
   
 
 ## Step 3. Run the tests, demonstrating that they fail

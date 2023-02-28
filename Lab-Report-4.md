@@ -9,12 +9,13 @@
 ## Step 2. Clone your fork of the repository from your Github account
    * I opened the desired repository on my Github account. Then, I copied the SSH url from the Code dropdown menu.
    * Next, I typed `git clone` + copied url on the command line in the terminal. 
-   * The fork of this repository was finally cloned. Please refer to the following screenshot for the same.![Image](images/File8.png) ![Image](images/File2.png)
+   * The fork of this repository was finally cloned. Please refer to the following screenshots for the same.![Image](images/File8.png) ![Image](images/File2.png)
   
 
 ## Step 3. Run the tests, demonstrating that they fail
-   * 
-   * ![Image](images/File3.png)
+   * To run the tests, I used the following commands in the given order:
+   * Command(s) used/ Key(s) pressed: `cd l` + `<tab><enter>`, `ls`, `javac L` + `<tab><enter>`, `<up><up><up><up><up><up><enter>` , `<up><up><up><up><up><up><enter>` + `l` + `<tab><tab><enter>`.
+   * I noticed that the test file failed and gave one failure. Please refer to the following screenshot for this step. ![Image](images/File3.png)
   
 
 ## Step 4. Edit the code file to fix the failing test

@@ -1,8 +1,9 @@
 # Lab Report 4 
 
 ## Step 1. Log into ieng6
-   * 
-   * ![Image](images/File1.png)
+   * To log into my CSE 15L ieng6 account, I used the following key(s):
+   * Command(s) used/ Key(s) pressed: `ssh cs15lwi23abn@ieng6.ucsd.edu` or `<up><enter>` (I had already used this command prior to writing this lab report. 
+   * Since, I had earlier generated SSH key for my ieng6 account, I wasn't prompted for my password. Instead, I was logged into my account straight away. Please refer to the following screenshot for this step. ![Image](images/File1.png)
    
  
 ## Step 2. Clone your fork of the repository from your Github account

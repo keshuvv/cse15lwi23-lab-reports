@@ -32,6 +32,5 @@
 ## Step 6. Commit and push the resulting change to your Github account (you can pick any commit message!)
    * 
    * ![Image](images/File5.png)
-   
- 
+
 ***Thank you for reviewing my lab report, appreciate it!*** 

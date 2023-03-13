@@ -19,9 +19,8 @@
   
 
 ## Step 4. Edit the code file to fix the failing test
-   * 
-   * ![Image](images/File4.png)
-   * ![Image](images/File6.png)
+   * To edit the code file, I typed the command : `nano ListExamples.java`. This command will open the ListExamples.java file in the Nano text editor where I further edited the code. Please refer to the following screenshot(s) to see me using this command. ![Image](images/File4.png)![Image](images/File6.png)
+   *
  
 
 ## Step 5. Run the tests, demonstrating that they now succeed

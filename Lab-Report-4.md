@@ -29,12 +29,12 @@
 
 ## Step 5. Run the tests, demonstrating that they now succeed
    * To run the tests again, I used the following keys: `<up><up>` or `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests`. 
-   * I got the same error again since my test failed. I couldn't 
-   * ![Image](images/File7.png)
+   * I got the same error again since my test failed. Despite multiple tries, I couldn't successfully fix the code. You can refer to the screenshot here below to see the result I got. ![Image](images/File7.png)
    
 
 ## Step 6. Commit and push the resulting change to your Github account (you can pick any commit message!)
-   * 
-   * ![Image](images/File5.png)
+   * To commit and push the changes to my github account, I used these commands: `git add .`, `git commit -m "Updated"`, and `git push origin main`. 
+   * These commands stage, commit and push the changes made in to my Lab-Reports github repository.
+   * You can refer to the screenshot here below to see the result I got. ![Image](images/File5.png)
 
 ***Thank you for reviewing my lab report, appreciate it!*** 

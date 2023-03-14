@@ -5,14 +5,14 @@
 ## 1. `-size n` option 
    * Description: This command-line option is used to filter the search results according to the size of files. The `n` parameter is for different size types, which are as follows: `b`- for 512-byte blocks (default), `c` - for bytes, `w`- for two-byte words, `k` - for kibibytes, `M` - for mebibytes, and `G` - for gibibytes. [Source](https://man7.org/linux/man-pages/man1/find.1.html)
                   
-   * __Example 1__: ![Image](images/size+1.png)
-   * __Example 2__: ![Image](images/size+2.png)
+   * __Example 1__: For the first example, I tried looking for all the files within the './written_2' directory of size more than 100 kibibytes. Please refer to the following screenshot to see the implementation of this example and the result I obtained. ![Image](images/size+1.png)
+   * __Example 2__: Now, for the second example, I wanted to find all the files within the './written_2' directory of size more than 200 kibibytes. Please refer to the following screenshot to see the implementation of this example and the result I obtained. ![Image](images/size+2.png)
    
 ## 2. `-type ` option 
-   * Description: This command-line option is used to filter search results based on the type of file - regular file, directory, symbolic link, block, character, named pipe, socket, and door. [Source](https://man7.org/linux/man-pages/man1/find.1.html)
+   * Description: This command-line option is used to filter search results based on the different types of file: regular file, directory, symbolic link, block, character, named pipe, socket, and door. [Source](https://man7.org/linux/man-pages/man1/find.1.html)
         
-   * __Example 1__: ![Image](images/type-d.png)
-   * __Example 2__: ![Image](images/type-f.png)
+   * __Example 1__: For the first example, I tried looking for only the sub-directories within the './written_2' directory. Please refer to the following screenshot to see the implementation of this example and the result I obtained. ![Image](images/type-d.png)
+   * __Example 2__: For the second example, I wanted to find only regular files within the './written_2' directory. Please refer to the following screenshot to see the implementation of this example and the result I obtained. ![Image](images/type-f.png)
   
 
 ## 3. `-empty ` option

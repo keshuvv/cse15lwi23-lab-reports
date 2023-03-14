@@ -3,7 +3,7 @@
 ## For this lab report, I have chosen the `find` command. Following are some of the command line options for `find` that I found interesting:_ 
 
 ## 1. `-size n` option 
-   * Description: This command-line option is used to filter the search results according to the size of files. The `n` parameter is for different size types, which are as follows: `b`- for 512-byte blocks (default), `c` - for bytes, `w`- for two-byte words, `k` - for kibibytes, `M` - for mebibytes, and `G` - for gibibytes. [Source](https://man7.org/linux/man-pages/man1/find.1.html)
+   * Description: This command-line option is used to filter the search results according to the size of files. The `n` parameter is for different size types, which are as follows: `b`- for 512-byte blocks (default), `c` - for bytes, `w`- for two-byte words, `k` - for kibibytes, `M` - for mebibytes, and `G` - for gibibytes.      [Source](https://man7.org/linux/man-pages/man1/find.1.html)
                   
    * __Example 1__: For the first example, I tried looking for all the files within the './written_2' directory of size more than 100 kibibytes. Please refer to the following screenshot to see the implementation of this example and the result I obtained. ![Image](images/size+1.png)
    * __Example 2__: Now, for the second example, I wanted to find all the files within the './written_2' directory of size more than 200 kibibytes. Please refer to the following screenshot to see the implementation of this example and the result I obtained. ![Image](images/size+2.png)

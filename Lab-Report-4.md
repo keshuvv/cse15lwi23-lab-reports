@@ -14,16 +14,21 @@
 
 ## Step 3. Run the tests, demonstrating that they fail
    * To run the tests, I used the following commands in the given order:
-   * Command(s) used/ Key(s) pressed: `cd l` + `<tab><enter>`, `ls`, `javac L` + `<tab><enter>`, `<up><up><up><up><up><up><enter>` , `<up><up><up><up><up><up><enter>` + `l` + `<tab><tab><enter>`.
+   * Command(s) used/ Key(s) pressed: `cd l` + `<tab><enter>`, `ls`, `javac L` + `<tab>+ . +<tab><enter>`, `<up><up><up><up><up><up><enter>` or `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java`, `<up><up><up><up><up><up><enter>` or `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore `+ `L` + `<tab>` + `T` + `<tab><enter>`. 
    * I noticed that the test file failed and gave one failure. Please refer to the following screenshot for this step. ![Image](images/File3.png)
+   * Note that the commands used above are only valid for Mac/Linux OS users. For window users, please use these JUnit test compilation commands: `javac -cp ".;lib/hamcrest-core-1.3.jar;lib/junit-4.13.2.jar" *.java` and `java -cp ".;lib/junit-4.13.2.jar;lib/hamcrest-core-1.3.jar" org.junit.runner.JUnitCore ` respectively.  
+   
   
 
 ## Step 4. Edit the code file to fix the failing test
-   * To edit the code file, I typed the command : `nano ListExamples.java`. This command will open the ListExamples.java file in the Nano text editor where I further edited the code. Please refer to the following screenshot(s) to see me using this command. ![Image](images/File4.png)![Image](images/File6.png)
-   *
+   * To edit the code file, I typed the command : `nano ListExamples.java`. This command will open the ListExamples.java file in the Nano text editor where I further edited the code. Please refer to the following screenshot(s) to see me using this command.  ![Image](images/File4.png)![Image](images/File6.png)
+   * Looking at the code in the Nano text editor (2nd screenshot), you can tell that the error is in the third while loop where the wrong variable "index1" was getting incremented instead of "index2". 
+   * To fix this, I used the following command(s) and key(s): `Ctrl-W` + `index1` + `<enter>` + `Ctrl-W` + `<enter>` + `Ctrl-W` + `<enter>` + `Ctrl-W` + `<enter>` + `Ctrl-W` + `<enter>` + `Ctrl-W` + `<enter>` + `Ctrl-W` + `<enter>` + `Ctrl-W` + `<enter>`,  `<right><right><right><right><Option-Right><Option-Right>` + `<delete>` + `2`, `Ctrl-O` + `<enter>` + `<Ctrl-X>`. 
+   * Please note that if you're using a Windows device, you will have to use `<Alt-Right><Alt-Right>` instead of just `<Option-Right><Option-Right>`. Also,refer to the following screenshot for my updated code. ![Image](images/File9.png)
  
 
 ## Step 5. Run the tests, demonstrating that they now succeed
+   * To run the tests again, I used the following keys: `<up><up>`.
    * 
    * ![Image](images/File7.png)
    

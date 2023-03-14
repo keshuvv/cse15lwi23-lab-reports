@@ -6,7 +6,7 @@
    * Description: 
                   [Source](https://man7.org/linux/man-pages/man1/find.1.html)
                   
-   * Example 1: ![Image](images/size+1.png)
+   * __Example 1__: ![Image](images/size+1.png)
    * Example 2: ![Image](images/size+2.png)
    
 ## 2. `-type ` option 

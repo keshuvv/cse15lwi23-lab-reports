@@ -28,8 +28,8 @@
  
 
 ## Step 5. Run the tests, demonstrating that they now succeed
-   * To run the tests again, I used the following keys: `<up><up>`.
-   * 
+   * To run the tests again, I used the following keys: `<up><up>` or `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests`. 
+   * I got the same error again since my test failed. I couldn't 
    * ![Image](images/File7.png)
    
 

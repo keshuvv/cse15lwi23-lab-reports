@@ -25,10 +25,9 @@
    * Example 2: ![Image](images/empty-f.png)
 
 ## 4. `-links n` option
-   * Description: This command-line option is used to find the files based on the number of hard links that point to them. 
-                  [Source](https://man7.org/linux/man-pages/man1/find.1.html)
+   * Description: This command-line option is used to find the files based on the number of hard links that point to them. [Source](https://man7.org/linux/man-pages/man1/find.1.html)
            
-   * Example 1: ![Image](images/links-5.png)
-   * Example 2: ![Image](images/links+5.png)
+   * Example 1: For the first example, I tried finding all the files within the ./witten_2 directory with exactly 5 hard links. The command that I used for the same was: `find ./written_2 -links 5`. Please refer to the following screenshot to see the implementation of this example and the result I obtained. ![Image](images/links-5.png)
+   * Example 2: For the first example, I was curious to find all the files within the ./witten_2 directory with more than 5 hard links. The command that I used for the same was: `find ./written_2 -links +5`. Please refer to the following screenshot to see the implementation of this example and the result I obtained. ![Image](images/links+5.png)
  
 ***Thank you for reviewing my lab report, appreciate it!*** 
